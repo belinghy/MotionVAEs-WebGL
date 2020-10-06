@@ -1,4 +1,4 @@
-# Motion VAEs WebGL Demo Code
+# Motion VAEs WebGL Demo
 
 This repo contains the source code for the [Motion VAE WebGL demo](https://www.cs.ubc.ca/~hyuling/projects/mvae/).
 
