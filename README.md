@@ -2,7 +2,9 @@
 
 This repo contains the source code for the [Motion VAE WebGL demo](https://www.cs.ubc.ca/~hyuling/projects/mvae/).
 
-<img src="images/target_demo.gif" align="center"> <br>
+<p align="center">
+    <img src="images/target_demo.gif">
+</p>
 
 ## Quick Start
 
