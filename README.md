@@ -34,7 +34,7 @@ If you found our research useful, please cite the following paper.
 @article{2020-TOG-MVAE,
   author    = {Hung Yu Ling and Fabio Zinno and George Cheng and Michiel van de Panne},
   title     = {Character Controllers Using Motion VAEs},
-  booktitle = {ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH)},
+  journal   = {ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH)},
   publisher = {ACM},
   volume    = {39},
   number    = {4},
